@@ -1,4 +1,4 @@
-# 🎵 Spotify Streams - A Data Analysis Walkthrough
+# Spotify Streams - A Data Analysis Walkthrough
 
 Este projeto apresenta uma análise exploratória de dados (EDA) detalhada sobre as músicas mais ouvidas no Spotify em 2023. O objetivo é extrair insights sobre os fatores que influenciam o sucesso de uma faixa, o comportamento dos streams e o impacto de playlists em diferentes plataformas de streaming.
 
@@ -6,7 +6,7 @@ O projeto foi construído no formato de *walkthrough* (passo a passo guiado), do
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 A análise foi desenvolvida em ambiente Jupyter Notebook utilizando o ecossistema de dados do Python:
 
@@ -17,7 +17,7 @@ A análise foi desenvolvida em ambiente Jupyter Notebook utilizando o ecossistem
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 Para manter a organização proposta pelo repositório geral de análise de dados, o projeto adota a seguinte estrutura de pastas:
 
