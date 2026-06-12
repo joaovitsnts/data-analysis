@@ -1,0 +1,17 @@
+# Cache do Python (arquivos compilados automaticamente)
+__pycache__/
+*.pyc
+
+# Arquivos temporários do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de dados brutos (Excels e CSVs)
+*.xlsx
+*.csv
+
+# [OPCIONAL] Configurações locais do VS Code (se você usar)
+.vscode/
+
+# [OPCIONAL] Arquivos temporários do próprio Excel/Windows
+~$*.xlsx
+.DS_Store
