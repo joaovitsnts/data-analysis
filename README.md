@@ -25,10 +25,10 @@ Para manter a organização proposta pelo repositório geral de análise de dado
 data-analysis/
 │
 └── spotify-streams-2023/
-    ├── spotify-streams-analysis.ipynb  # Notebook principal com a análise passo a passo
-    ├── requirements.txt                # Bibliotecas necessárias para rodar o projeto
-    ├── .gitignore                      # Configuração para não subir dados locais brutos (.csv)
-    └── img/                            # Gráficos e plots exportados dinamicamente pelo código
+    ├── spotify-streams-analysis.ipynb  
+    ├── requirements.txt                
+    ├── .gitignore                      
+    └── img/                           
         ├── spotify1.png
         ├── spotify2.png
         ├── spotify3.png

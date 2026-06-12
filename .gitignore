@@ -1,4 +1,4 @@
-# Cache do Python (arquivos compilados automaticamente)
+# Cache do Python
 __pycache__/
 *.pyc
 
@@ -8,10 +8,3 @@ __pycache__/
 # Arquivos de dados brutos (Excels e CSVs)
 *.xlsx
 *.csv
-
-# [OPCIONAL] Configurações locais do VS Code (se você usar)
-.vscode/
-
-# [OPCIONAL] Arquivos temporários do próprio Excel/Windows
-~$*.xlsx
-.DS_Store
